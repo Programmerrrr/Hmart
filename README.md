@@ -1,2 +1,2 @@
 # Hmart
-This project e-commerse website
+Ushbu dasturda Django darsligi jamlangan
